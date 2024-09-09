@@ -94,9 +94,8 @@ namespace HelloDungeon
                     //...print text for feedback and break the loop
                     Console.WriteLine("Congrats! You've gained immortality!");
                     Console.ReadKey();
-                    i = 5;
-                    
 
+                    break;
                 }
                 else
                 {
