@@ -135,6 +135,7 @@ namespace HelloDungeon
                 currentArea = 1;
                 gameOver = false;
                 playerIsAlive = true;
+                health = 20;
             }
             //Otherwise if the player wants to quit...
             else if (input == 2)
